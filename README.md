@@ -1,16 +1,16 @@
-### Hi there 👋
+# Eai tudo bem! :vulcan_salute:
 
-<!--
-**JoaoVijales/JoaoVijales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+estou começando na area então toda contribuição, dicas, criticas e comentários são bem vindos! fique à-vontade!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Para Empresas
+
+Estou a procura de uma oportunidade de entrar no mercado! segue abaixo algumas das minhas habilidades:
+
+pricipais:
+<div>
+<a><img src="https://custom-icon-badges.demolab.com/badge/React--675c5c"></a>
+<a><img src="https://custom-icon-badges.demolab.com/badge/Javascript-675c5c"/></a>
+<a><img src="https://custom-icon-badges.demolab.com/badge/Python-675c5c"/></a>
+<a><img src="https://custom-icon-badges.demolab.com/badge/Djandgo-675c5c"/></a>
+<a><img src="https://custom-icon-badges.demolab.com/badge/Djandgo Rest Framework-675c5c"/></a>
