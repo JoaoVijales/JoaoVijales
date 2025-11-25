@@ -1,82 +1,77 @@
-<!-- Banner ou título -->
-<h1 align="center">👋 Olá! Eu sou o João Vijales</h1>
+<div align="center">
 
-<p align="center">
-  <b>Desenvolvedor Full-Stack | IA Aplicada | Automação | Bots Inteligentes</b><br/>
-  Construindo soluções reais com Django, Next.js, Supabase e APIs de IA.
-</p>
+# 👋 Olá! Eu sou o **João Vijales**
+### 🚀 Desenvolvedor Full-Stack | IA Aplicada | Automação | Bots Inteligentes  
+
+Construo **SaaS, bots, APIs inteligentes e automações** que resolvem problemas reais.  
+Sempre focado em **arquitetura, segurança, escalabilidade e experiência do usuário**.
+
+---
+
+## 🌐 Conecte-se comigo
+<a href="https://wa.me/5548998699159?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub!" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://github.com/JoaoVijales" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+---
+
+## 🛠️ Minhas Skills
+### 🔥 Backend
+![Backend](https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,postgres,redis,supabase,firebase)
+
+### 🌐 Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,php)
+
+### 🤖 Inteligência Artificial
+![IA](https://skillicons.dev/icons?i=ai,gcp,py)
+
+### ⚙️ DevOps e Infra
+![DevOps](https://skillicons.dev/icons?i=docker,nginx,linux)
 
 ---
 
 ## 🚀 Sobre mim
+Sou um desenvolvedor que **transforma ideias em produtos reais**.  
+Atualmente construindo soluções de alto impacto como:
 
-Sou um desenvolvedor focado em **construir produtos de verdade** — SaaS, bots inteligentes, automações e integrações profundas com APIs externas.
+### 🛡️ **É Cilada Bot**
+Bot de IA que analisa links enviados no WhatsApp e detecta possíveis golpes automaticamente.
 
-Atualmente estou criando soluções como:
+### 📊 **FinTagger**
+Classificador financeiro automático, harmonização de dados e automações inteligentes para empresas.
 
-- 🤖 **É Cilada Bot** — IA que detecta golpes em links enviados pelo WhatsApp  
-- 🧠 **Fintagger** — classificadores financeiros, harmonização de dados e automação para empresas  
-
-Gosto de transformar ideias em sistemas que resolvem problemas reais, com foco em **arquitetura, segurança, automação e escalabilidade**.
-
----
-
-## 🛠️ Stack & Tecnologias que uso
-
-### 🔥 Backend
-- Python • Django REST • FastAPI  
-- Node.js • Express  
-- Supabase • PostgreSQL  
-- Redis (jobs & filas)  
-- Stripe (pagamentos)  
-- Integração oficial Meta WhatsApp Cloud API  
-
-### 🌐 Frontend
-- Next.js  
-- React • TypeScript  
-- TailwindCSS  
-- Vite
-
-### 🤖 Inteligência Artificial
-- GPT • Gemini • Claude 
-- Agentes de IA para automação de processos
-
-### ⚙️ DevOps
-- Docker • Docker Compose  
-- VPS • Nginx Proxy Manager  
-- CI/CD básico  
-- Integração com Webhooks
+Gosto de trabalhar com:
+- Arquiteturas escaláveis  
+- APIs inteligentes  
+- Sistemas de pagamento (Stripe)  
+- Integrações complexas (Meta WhatsApp API, Supabase, Redis, Webhooks)  
+- Segurança e boas práticas de DevOps  
 
 ---
 
-## 🚧 Projetos Principais
+## 🚧 Projetos Recentes
+### 🤖 É Cilada Bot  
+IA treinada para interpretar páginas e comportamentos suspeitos.
 
-### 🛡️ É Cilada Bot
-Bot de IA que analisa links e detecta possíveis golpes automaticamente ⚠️  
-> IA treinada para interpretar links, páginas e comportamento suspeito.  
-
-### 📊 FinTagger — Classificador Financeiro Automático  
-SaaS que usa IA para **classificar automaticamente transações** de planilhas.
+### 📊 FinTagger  
+Automação financeira inteligente com classificação e harmonização avançada.
 
 ---
 
-## 📈 Estatísticas do GitHub
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVijales&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVijales&layout=compact&theme=tokyonight" alt="langs" height="160"/>
-</p>
+## 💬 Entre em contato comigo
+📱 **WhatsApp:**  
+👉 https://wa.me/5548998699159?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub!
 
 ---
 
-## 📬 Contato
+Feito com ❤️ por **João Vijales**
 
-<p align="left">
-  <a href="https://wa.me/5548998699159?text=Ol%C3%A1%2C%20quero%20saber%20mais!">📧 WhatsApp</a><br/>
-</p>
+</div>
 
----
-
-<h3 align="center">🚀 Sempre criando, evoluindo e construindo soluções reais com código.</h3>
 
 
