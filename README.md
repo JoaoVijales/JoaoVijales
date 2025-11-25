@@ -44,11 +44,6 @@ Automação financeira inteligente com classificação e harmonização avançad
 
 ---
 
-
----
-
-Feito com ❤️ por **João Vijales**
-
 </div>
 
 
