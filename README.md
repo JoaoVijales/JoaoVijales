@@ -33,23 +33,6 @@ Sempre focado em **arquitetura, segurança, escalabilidade e experiência do usu
 
 ---
 
-## 🚀 Sobre mim
-Sou um desenvolvedor que **transforma ideias em produtos reais**.  
-Atualmente construindo soluções de alto impacto como:
-
-### 🛡️ **É Cilada Bot**
-Bot de IA que analisa links enviados no WhatsApp e detecta possíveis golpes automaticamente.
-
-### 📊 **FinTagger**
-Classificador financeiro automático, harmonização de dados e automações inteligentes para empresas.
-
-Gosto de trabalhar com:
-- Arquiteturas escaláveis  
-- APIs inteligentes  
-- Sistemas de pagamento (Stripe)  
-- Integrações complexas (Meta WhatsApp API, Supabase, Redis, Webhooks)  
-- Segurança e boas práticas de DevOps  
-
 ---
 
 ## 🚧 Projetos Recentes
@@ -61,11 +44,6 @@ Automação financeira inteligente com classificação e harmonização avançad
 
 ---
 
----
-
-## 💬 Entre em contato comigo
-📱 **WhatsApp:**  
-👉 https://wa.me/5548998699159?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub!
 
 ---
 
