@@ -35,23 +35,9 @@ Sempre focado em **arquitetura, segurança, escalabilidade e experiência do usu
 ### 🌐 Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,php)
 
-### 🤖 Inteligência Artificial
-![IA](https://skillicons.dev/icons?i=ai,gcp,py)
-
 ### ⚙️ DevOps e Infra
 ![DevOps](https://skillicons.dev/icons?i=docker,nginx,linux)
 
-
----
-
-## 🚧 Projetos Recentes
-### 🤖 É Cilada Bot  
-IA treinada para interpretar páginas e comportamentos suspeitos.
-
-### 📊 FinTagger  
-Automação financeira inteligente com classificação e harmonização avançada.
-
----
 
 </div>
 
