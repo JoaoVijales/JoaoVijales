@@ -2,8 +2,8 @@
 
 <div align="center">
 
-# 👋 Olá! Eu sou o **João Vijales**
-### 🚀 Desenvolvedor Full-Stack | IA Aplicada | Automação | Bots Inteligentes  
+# Olá! Eu sou o **João Vijales**
+### Desenvolvedor Full-Stack | IA Aplicada | Automação | Bots Inteligentes  
 
 Construo **SaaS, bots, APIs inteligentes e automações** que resolvem problemas reais.  
 Sempre focado em **arquitetura, segurança, escalabilidade e experiência do usuário**.
