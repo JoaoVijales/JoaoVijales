@@ -11,10 +11,6 @@ Sempre focado em **arquitetura, segurança, escalabilidade e experiência do usu
 ---
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVijales&show_icons=true&theme=tokyonight" />
-</div>
-
 
 <a href="https://wa.me/5548998699159?text=Ol%C3%A1%2C%20vim%20pelo%20GitHub!" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
