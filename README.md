@@ -26,10 +26,10 @@ Sempre focado em **arquitetura, segurança, escalabilidade e experiência do usu
 
 ## 🛠️ Minhas Skills
 ### 🔥 Backend
-![Backend](https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,postgres,redis,supabase,firebase)
+![Backend](https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,postgres,mysql,redis,supabase,firebase,laravel,php)
 
 ### 🌐 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,php)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,php)
 
 ### ⚙️ DevOps e Infra
 ![DevOps](https://skillicons.dev/icons?i=docker,nginx,linux)
